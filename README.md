@@ -8,8 +8,16 @@ Plan
 <p>2. Formatting/Parsing</p>
 <ul><li>2.1 CultureInfo</li>
 <li>2.2 FormatProviders</li>
-<ul><li>2.2.3 DateTimeFormatInfo</li></ul>
+<ul><li>2.2.1 DateTimeFormatInfo</li></ul>
 <li>2.3 Parsing</li></ul>
 <p>3. Equality and Comparisons</p>
 <ul><li>3.1 Equals/IEquatable</li>
 <li>3.2 IComparable/IComparer</li></ul>
+<p>3. Equality and Comparisons</p>
+<ul><li>3.1 Equals/IEquatable</li>
+<li>3.2 IComparable/IComparer</li></ul>
+<p>4. Delegates and Events</p>
+<ul><li>3.1 Delegate structure</li>
+<ul><li>3.1.1 Delegate chains</li></ul>
+<li>3.2 Event structure</li></ul>
+
