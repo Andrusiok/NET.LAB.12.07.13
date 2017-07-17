@@ -19,5 +19,6 @@ Plan
 <p>4. Delegates and Events</p>
 <ul><li>3.1 Delegate structure</li>
 <ul><li>3.1.1 Delegate chains</li></ul>
-<li>3.2 Event structure</li></ul>
+<li>3.2 Event structure</li>
+<li>3.2 Lambdas</li></ul>
 
