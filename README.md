@@ -11,7 +11,6 @@ Plan
 <p>2. Introduction to Language Integrated Query (LINQ).</p>
 <ul><li>2.1 How Linq queries are organised</li>
 <li>2.2 FormatProviders</li>
-<ul><li>2.2.1 DateTimeFormatInfo</li></ul>
 <li>2.3 Parsing</li></ul>
 <p>3. Internal device types in .NET Framework. Resource management.</p>
 <ul><li>3.1 Equals/IEquatable</li>
