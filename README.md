@@ -5,7 +5,7 @@ Plan
 <li>1.2 Generic constraints</li>
 <li>1.3 struct/class, new()</li>
 <li>1.4 Covariance/Contravariance in generics</li>
-<li>1.5 Enumerations/Collections</li>
+<li>1.5 Enumerations/Collections/foreach</li>
 <li>1.6 yield</li>
 <li>1.7 ICollection, IList, ...</li></ul>
 <p>2. Introduction to Language Integrated Query (LINQ).</p>
